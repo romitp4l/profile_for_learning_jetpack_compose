@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">profile_for_learning_jetpack_compose</string>
+    <string name="user_name">ROMILA   JEFFRY</string>
+    <string name="user_email">romit.pal.dev@gmail.com</string>
+    <string name="edit_profile">"Edit Profile "</string>
+    <string name="about_user">Hello there! I\'m [Your Name], an enthusiastic Android developer with a passion for crafting mobile applications that not only meet the needs of users but also deliver a delightful and seamless experience. 🚀</string>
+</resources>
